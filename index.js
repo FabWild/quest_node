@@ -1,7 +1,8 @@
 "use strict";
 
-const express = require('express')
-const app = express()
+const express = require('express');
+const app = express();
+const pug = require('pug');
 
 var path = require("path");
 
